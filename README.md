@@ -1,3 +1,6 @@
+Пришёл Максим и дал советики)))
+
+
 ![image](https://github.com/user-attachments/assets/06e21fbf-868c-46a9-94f7-d594cbeda7e2)
 
 
