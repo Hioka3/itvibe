@@ -1,6 +1,6 @@
 body{
     width: 1440px; 
-    height: 4889px; 
+    height: 5200px; 
     position: relative;
     background: black;
 }
@@ -29,7 +29,7 @@ header{
     text-transform: uppercase; 
     word-wrap: break-word;
 }
-button{
+a{
     width: 220px;
     height: 61px; 
     color: white;
@@ -39,13 +39,14 @@ button{
     font-weight: 400; 
     text-transform: capitalize; 
     word-wrap: break-word;
-    margin-left: 60px;
+    margin-left: 80px;
     border: none;
     float: left;
     cursor: pointer;
+    text-decoration: none;
 }
 .formbutton{
-    width: 1250px; 
+    width: 1300px; 
     height: 130px; 
     left:450px;
     top: 25px;
@@ -283,8 +284,7 @@ button{
     color: #FFFF00; 
     font-size: 18px; 
     font-family: Inter; 
-    font-weight: 800; 
-    text-transform: uppercase; 
+    font-weight: 800;  
     word-wrap: break-word;
     position: absolute;
 }
@@ -294,7 +294,148 @@ button{
     font-size: 15px; 
     font-family: Inter; 
     font-weight: 800px; 
-    text-transform: capitalize; 
+   
     word-wrap: break-word;
    
+}
+.circle7{
+    width: 50px; 
+    height: 50px; 
+    left: 57px; 
+    top: 2700px; 
+    position: absolute; 
+    border-radius: 100px; 
+    border: 4px #FFFF00 solid;
+}
+.text6{
+    left: 900px; 
+    top: 3750px; 
+    position: absolute; 
+    color: #FFFF00; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    word-wrap: break-word;
+}
+.block4{
+    width: 335px; 
+    height: 350px; 
+    left:90px; 
+    top: 4000px; 
+    position: absolute; 
+    border-radius: 40px; 
+    border: 6px rgba(30, 30, 30, 0.60) solid;
+}
+.block5{
+    width: 335px; 
+    height: 350px; 
+    left: 100px; 
+    top: 4020px; 
+    position: absolute; 
+    border-radius: 40px; 
+    border: 6px #1E1E1E solid;
+}
+.web{
+    left: 170px; 
+    top: 4040px; 
+    position: absolute; 
+    color: #FFFF00; 
+    font-size: 24px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    word-wrap: break-word;
+}
+.Backend{
+    left: 800px; 
+    top: 4040px; 
+    position: absolute; 
+    color: #FFFF00; 
+    font-size: 24px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    word-wrap: break-word;
+}
+.Frontend{
+    left: 1440px; 
+    top: 4040px; 
+    position: absolute; 
+    color: #FFFF00; 
+    font-size: 24px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    white-space: nowrap;
+}
+.textweb{
+    width: 266px; 
+    left: 150px; 
+    top: 4130px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    word-wrap: break-word;
+}
+.textbackend{
+    left: 785px; 
+    top: 4130px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    word-wrap: break-word;
+}
+.textfronted{
+    left: 1480px; 
+    top: 4130px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    white-space: nowrap;
+}
+.text7{
+    left: 750px; 
+    top: 4530px; 
+    position: absolute; 
+    color: #FFFF00; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    text-transform: uppercase; 
+    word-wrap: break-word;
+}
+.text8{
+    left: 700px; 
+    top: 4600px; 
+    position: absolute;
+    color: white; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    word-wrap: break-word;
+}
+.block6{
+    width: 880px; 
+    height: 434px; 
+    left: 480px; 
+    top: 4690px; 
+    position: absolute; 
+    background: black; 
+    border-radius: 40px; 
+    border: 6px #FFFF00 solid;
+}
+.text9{
+    width: 567px; 
+    height: 285px; 
+    left: 650px; 
+    top: 4760px; 
+    position: absolute;
+    color: white; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 800; 
+    word-wrap: break-word;
 }
